@@ -1,0 +1,225 @@
+body {
+    background-image: url("https://shorturl.at/jpsCG");
+    overflow-x: hidden
+}
+
+.custom-navbar {
+    background-color: #53212B;
+    border-right: 5px solid #BD3944;
+    border-left: 5px solid #BD3944;
+}
+
+.custom-navbar .navbar-nav .nav-link {
+    color: aliceblue;
+    font-family: "Courier New", sans-serif;
+}
+
+.navbar-brand {
+    height: 100px;
+}
+
+.navbar-brand .login-icon {
+    height: 48px;
+    width: 48px;
+}
+
+.nav-link {
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.nav-vlr-icon {
+    height: 70px;
+    width: 70px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+li {
+    border: 2px solid rgb(15, 25, 35);
+    padding: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    background-color: #BD3944;
+}
+
+.link-img {
+    height: 25px;
+    width: 25px;
+    margin-right: 7px;
+}
+
+p {
+    font-family: "Courier New", sans-serif;
+    font-size: large;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: 'VALORANT', sans-serif;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+h2 {
+    color: #FFFBF5;
+    font-family: "Courier New", sans-serif;
+    text-align: center;
+}
+
+
+.heading {
+    border: 10px solid #BD3944;
+    padding: 15px;
+    background-color: #53212B;
+    margin-left: 2px;
+    margin-bottom: 50px;
+}
+
+.spinner-border {
+    height: 24px;
+    width: 24px;
+}
+
+.modal-title {
+    font-family: "Times New Roman", sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+.riot_icon {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    margin-right: 8px;
+    bottom: 5px;
+}
+
+.vlr-image {
+    width: 70%;
+}
+
+.vlr-info {
+    font-family: "Courier New", sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    text-align: center;
+    left: 65%;
+    top: 400px;
+}
+
+.heading-3 {
+    font-family: "VALORANT", sans-serif;
+    font-size: xx-large;
+    color: white;
+}
+
+.card {
+    height: 550px;
+    margin-left: 6%;
+    transition: all 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.btn-danger {
+    height: 50px;
+    width: 170px;
+    font-family: "VALORANT", sans-serif;
+    position: absolute;
+    top: 500px;
+}
+
+.play-icon {
+    height: 32px;
+    width: 32px;
+    float: left;
+    position: relative;
+    bottom: 5px;
+    margin-right: 10px;
+}
+
+.dropdown-center {
+    position: relative;
+    left: 10px;
+    bottom: 60px;
+    margin-top: 100px;
+}
+
+.btn-secondary {
+    font-family: "VALORANT", sans-serif;
+    font-weight: bold;
+    border: 2px solid white;
+}
+
+.dropdown-item {
+    font-family: "Courier New", sans-serif;
+    color: white;
+}
+
+.btn-primary {
+    background-color: black;
+    color: white;
+}
+
+.img-agent {
+    height: 720px;
+    width: 550px;
+    position: relative;
+    left: 15%;
+    float: left;
+}
+
+.img-agent:hover {
+    transform: scale(1.02);
+}
+
+.display-5 {
+    font-family: "VALORANT", sans-serif;
+}
+
+.agent-information {
+    font-family: Courier New, arial, Georgia, sans-serif;
+    color: white;
+    font-size: large;
+    display: inline;
+    position: relative;
+    top: 45px;
+    left: 30px;
+}
+
+.agent-link {
+    font-family: "VALORANT", sans-serif;
+    background-color: #BD3944;
+    color: white;
+    font-size: xxx-large;
+    font-weight: bold;
+    position: relative;
+    left: 300px;
+}
+
+.footer_panel {
+    width: 100%;
+    height: 350px;
+    position: relative;
+    bottom: 0;
+    background-color: rgb(41, 41, 41);
+}
+
+.age-limit {
+    height: 120px;
+    width: 120px;
+}
+
+
+
